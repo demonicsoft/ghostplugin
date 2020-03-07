@@ -26,3 +26,32 @@ Finally, the product was born during the 2019-nCoV epidemic. We hope that the ep
 
 最后，产品诞生于新冠肺炎疫情期间，希望疫情被我们战胜，大家都安然无恙！
 
+---
+
+# Features
+
+## Ghost Plugin's goal
+
+The goal we hope to achieve with the ghost plugin is to quickly complete tasks that browsers can't. Fully utilize and integrate local resources, especially in enterprise application scenarios.
+
+## Easy to develop and quickly integrate
+
+Learn how to build an extension in just a few minutes. You can make full use of existing code to quickly build extensions and quickly release them to our plugin library for users to use.
+
+## Extensive browser support
+
+Google Chrome, Firefox, IE10 + / NEW Edge, Opera, QQ Browser, Sogou Browser. More browser support is planned.
+
+## Continuously optimized user experience
+
+Through continuous optimization, we ultimately hope that users can use extensions without perception, and our runtime is very small, less than 1M.
+
+# Get Startd
+
++ [Downloads](https://www.ghostplugin.com/downloads)
++ [Documents](https://www.ghostplugin.com/docs/latest/get-started)
++ [Examples](https://www.ghostplugin.com/examples)
++ [Ghost Plugin Gallery](https://www.ghostplugin.com/examples)
++ [Support Ghost Plugin](https://www.ghostplugin.com/donate)
+
+Learn more please visit <https://www.ghostplugin.com>
