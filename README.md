@@ -51,7 +51,7 @@ Through continuous optimization, we ultimately hope that users can use extension
 + [Downloads](https://www.ghostplugin.com/downloads)
 + [Documents](https://www.ghostplugin.com/docs/latest/get-started)
 + [Examples](https://www.ghostplugin.com/examples)
-+ [Ghost Plugin Gallery](https://www.ghostplugin.com/examples)
++ [Ghost Plugin Gallery](https://www.ghostplugin.com/plugins)
 + [Support Ghost Plugin](https://www.ghostplugin.com/donate)
 
 Learn more please visit <https://www.ghostplugin.com>
